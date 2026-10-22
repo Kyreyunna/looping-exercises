@@ -9,7 +9,9 @@ public class DoWhileLoop {
        do{
            System.out.println("I love Java");
            message = message + 1;
+
        }while(message<=5);
+
 
 
 
